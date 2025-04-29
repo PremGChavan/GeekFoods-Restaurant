@@ -1,5 +1,5 @@
 import logo from "../assets/logo.svg";
-import "../app.css"
+// import "../app.css"
 const Navbar = () => {
   return (
     <nav className="fixed top-0 left-0 w-full bg-[#111828] shadow-md z-50">
