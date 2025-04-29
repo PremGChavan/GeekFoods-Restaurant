@@ -1,7 +1,7 @@
 import Navbar from "./components/Navbar";
 import Footer from "./components/Footer";
 import RestaurantMenu from "./components/RestaurantMenu";
-import "./app.css";
+// import "./app.css";
 
 function App() {
   return (
